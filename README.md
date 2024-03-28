@@ -1,4 +1,4 @@
-# Inteligencia Artificial con Python - Escuela de Programación
+# Inteligencia Artificial con Python
 
 
 ## Módulos:
