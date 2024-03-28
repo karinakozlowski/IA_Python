@@ -1,4 +1,4 @@
-![Banner](Assets/Banner.png)
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/English/Assets/Black%20Technology%20LinkedIn%20Banner%20(1).png)
 
 
 ## Módulos:
@@ -11,6 +11,9 @@
 6. **Redes Neuronales**: Conceptos básicos y aplicación de redes neuronales.
 7. **Visión Artificial**: Procesamiento de imágenes y aplicaciones de visión por computadora.
 8. **Procesamiento de Lenguaje Natural (PLN)**: Introducción al procesamiento de lenguaje natural con Python.
+
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/English/Assets/modulos%20(2).png)
+
 
 ## Estructura del Repositorio
 
