@@ -11,7 +11,8 @@
 6. **Redes Neuronales**: Conceptos básicos y aplicación de redes neuronales.
 7. **Visión Artificial**: Procesamiento de imágenes y aplicaciones de visión por computadora.
 8. **Procesamiento de Lenguaje Natural (PLN)**: Introducción al procesamiento de lenguaje natural con Python.
-
+   
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/English/Assets/modulos%20(4).png)
 ## Estructura del Repositorio
 
 El repositorio está organizado por módulos, cada uno contiene las actividades propuestas para cada tema. Podrán clonar el repositorio y seguir las instrucciones dentro de cada actividad para completarlas.
