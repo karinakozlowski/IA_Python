@@ -3,15 +3,14 @@
 
 ## Módulos:
 
-1. [**Búsqueda**:](https://github.com/karinakozlowski/IA_Python/edit/Spanish/README.md#algoritmos-de-busquedas)
-2. Introducción a los algoritmos de búsqueda en inteligencia artificial.
-3. [**Conocimiento**:]() Manejo del conocimiento y representación del mismo en sistemas inteligentes.
-4. [**Incertidumbre**:]() Tratamiento de la incertidumbre en sistemas de inteligencia artificial.
-5. [**Optimización**:]() Métodos de optimización para resolver problemas complejos.
-6. [**Aprendizaje Automático**:]() Fundamentos y aplicaciones del aprendizaje automático.
-7. [**Redes Neuronales**:]() Conceptos básicos y aplicación de redes neuronales.
-8. [**Visión Artificial**:]() Procesamiento de imágenes y aplicaciones de visión por computadora.
-9. [**Procesamiento de Lenguaje Natural (PLN)**:]() Introducción al procesamiento de lenguaje natural con Python.
+1. [**Búsqueda**:]()Introducción a los algoritmos de búsqueda en inteligencia artificial.
+2. [**Conocimiento**:]() Manejo del conocimiento y representación del mismo en sistemas inteligentes.
+3. [**Incertidumbre**:]() Tratamiento de la incertidumbre en sistemas de inteligencia artificial.
+4. [**Optimización**:]() Métodos de optimización para resolver problemas complejos.
+5. [**Aprendizaje Automático**:]() Fundamentos y aplicaciones del aprendizaje automático.
+6. [**Redes Neuronales**:]() Conceptos básicos y aplicación de redes neuronales.
+7. [**Visión Artificial**:]() Procesamiento de imágenes y aplicaciones de visión por computadora.
+8. [**Procesamiento de Lenguaje Natural (PLN)**:]() Introducción al procesamiento de lenguaje natural con Python.
    
 ![Banner](https://github.com/karinakozlowski/IA_Python/blob/English/Assets/modulos%20(4).png)
 
