@@ -16,7 +16,7 @@
 
 ## Algoritmos de Busquedas
 
-![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo%20(2).png)
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo.jpg)
 
 
 ## Recursos Adicionales
