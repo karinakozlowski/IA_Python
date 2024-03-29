@@ -3,7 +3,7 @@
 
 ## Módulos:
 
-1. [**Búsqueda**:]()Introducción a los algoritmos de búsqueda en inteligencia artificial.
+1. [**Búsqueda**:](Algoritmos de busqueda)Introducción a los algoritmos de búsqueda en inteligencia artificial.
 2. [**Conocimiento**:]() Manejo del conocimiento y representación del mismo en sistemas inteligentes.
 3. [**Incertidumbre**:]() Tratamiento de la incertidumbre en sistemas de inteligencia artificial.
 4. [**Optimización**:]() Métodos de optimización para resolver problemas complejos.
