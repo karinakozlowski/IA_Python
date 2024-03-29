@@ -1,4 +1,4 @@
-![Banner](Assets/Banner.png)
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Black%20Technology%20LinkedIn%20Banner%20(2).png)
 
 
 ## Módulos:
