@@ -3,7 +3,7 @@
 
 ## Módulos:
 
-1. [**Búsqueda**:]() Introducción a los algoritmos de búsqueda en inteligencia artificial.
+1. [**Búsqueda**:](https://github.com/karinakozlowski/IA_Python/edit/Spanish/README.md#algoritmos-de-busquedas) Introducción a los algoritmos de búsqueda en inteligencia artificial.
 2. [**Conocimiento**:]() Manejo del conocimiento y representación del mismo en sistemas inteligentes.
 3. [**Incertidumbre**:]() Tratamiento de la incertidumbre en sistemas de inteligencia artificial.
 4. [**Optimización**:]() Métodos de optimización para resolver problemas complejos.
@@ -13,9 +13,11 @@
 8. [**Procesamiento de Lenguaje Natural (PLN)**:]() Introducción al procesamiento de lenguaje natural con Python.
    
 ![Banner](https://github.com/karinakozlowski/IA_Python/blob/English/Assets/modulos%20(4).png)
-## Estructura del Repositorio
 
-El repositorio está organizado por módulos, cada uno contiene las actividades propuestas para cada tema. Podrán clonar el repositorio y seguir las instrucciones dentro de cada actividad para completarlas.
+## Algoritmos de Busquedas
+
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo.png)
+
 
 ## Recursos Adicionales
 
