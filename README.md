@@ -18,6 +18,10 @@
 
 ![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo.jpg)
 
+## Grafos
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo%20(5).png)
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo%20(4).png)
+
 ## Vocabulario
 
 ![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo%20(3).png)
