@@ -14,9 +14,13 @@
    
 ![Banner](https://github.com/karinakozlowski/IA_Python/blob/English/Assets/modulos%20(4).png)
 
-## Algoritmos de Busquedas
+## Algoritmos de Busqueda en grafos
 
 ![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo.jpg)
+
+## Vocabulario
+
+![Banner](https://github.com/karinakozlowski/IA_Python/blob/Spanish/Assets/Algoritmo%20(3).png)
 
 
 ## Recursos Adicionales
